@@ -29,8 +29,6 @@ The following diagram illustrates the system workflow and architecture:
 ![System flow](flow.png)
 
 
-## Note
-This project is currently under development. The current version focuses on system design and initial implementation of core modules.
 
 ## Conclusion
 HASM aims to provide an objective and automated solution for traffic accident analysis. By reducing human bias and improving accuracy, the system has the potential to support smarter and more reliable decision-making.
